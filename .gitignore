@@ -47,6 +47,7 @@ nosetests.xml
 coverage.xml
 *.cover
 .hypothesis/
+e2e/cypress/screenshots/
 
 # Translations
 *.mo
